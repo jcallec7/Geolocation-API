@@ -127,7 +127,7 @@ En nuestro HTML de home page colocamos el la siguiente linea para llamar al HTML
 
 ## Resultados: 
 
-![Test Image 1](https://github.com/jcallec7/Geolocation-API/blob/master/images/Screenshot%20(1).png)
-![Test Image 1](https://github.com/jcallec7/Geolocation-API/blob/master/images/Screenshot%20(2).png)
+![Test Image 1](https://github.com/jcallec7/Geolocation-API/blob/master/images/geo1.jpeg)
+![Test Image 2](https://github.com/jcallec7/Geolocation-API/blob/master/images/geo2.jpeg)
 
 
