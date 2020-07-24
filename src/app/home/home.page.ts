@@ -7,6 +7,15 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  locate: string
+
   constructor() {}
+
+  location(data:any){
+
+    console.log(data)
+    this.locate = data
+
+  }
 
 }
